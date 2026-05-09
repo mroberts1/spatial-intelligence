@@ -5,6 +5,9 @@ url: https://www.worldlabs.ai/blog/marble-world-model
 authors: World Labs
 date: 2025
 tags: #world-models #multimodal #generative-3d #spatial-intelligence
+tier: primary
+last_verified: 2026-05-09
+superseded_by:
 ---
 
 ## Summary

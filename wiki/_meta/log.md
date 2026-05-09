@@ -112,3 +112,19 @@ When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 | Evaluation status | Framework ready | First run at 8-12 sources |
 
 **Vault health:** Initializing. Spatial stack architecture visible after 3 sources. Multimodal learning and applications still underdeveloped. Ready to scale ingest.
+
+---
+
+## [2026-05-09] update | CLAUDE.md rewritten to v2 governance
+
+Replaced MacBook-side v1 CLAUDE.md with full v2 governance document:
+- Voice anchor rewritten to accurately reflect vault domain (AI spatial intelligence — world models, neural graphics, 3DGS, embodied AI)
+- Scope section added: AI/computational focus is primary; cognitive science/neuroscience in scope only as grounding or contrast
+- Sibling vaults updated: ~/generative-art as primary sibling; ~/interasia-pop and ~/tiwchh not directly linked
+- Tag taxonomy replaced with 10 domain-accurate tags matching existing content
+- Directory conventions aligned to MacBook-established structure (wiki/concepts/, wiki/sources/, Title Case)
+- Changes from v1 table documents what was superseded
+
+## [2026-05-09] update | v2 front-matter patch on 4 source notes
+
+Added missing v2 fields to all source notes in wiki/sources/: `tier:`, `last_verified:`, `superseded_by:`. All four assigned `tier: primary` (World Labs official blog posts and technical articles). No content changes.

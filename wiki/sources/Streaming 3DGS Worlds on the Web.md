@@ -5,6 +5,9 @@ url: https://www.worldlabs.ai/blog/streaming-3dgs-worlds-on-the-web
 authors: World Labs (Spark team)
 date: 2024
 tags: #neural-graphics #3d-gaussian-splatting #rendering #web-graphics
+tier: primary
+last_verified: 2026-05-09
+superseded_by:
 ---
 
 ## Summary

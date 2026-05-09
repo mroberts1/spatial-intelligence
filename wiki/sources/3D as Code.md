@@ -5,6 +5,9 @@ url: https://www.worldlabs.ai/blog/3d-as-code
 authors: World Labs
 date: 2024
 tags: #spatial-intelligence #world-models #3d-representations #neural-graphics
+tier: primary
+last_verified: 2026-05-09
+superseded_by:
 ---
 
 

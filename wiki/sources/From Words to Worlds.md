@@ -5,6 +5,9 @@ url: https://www.worldlabs.ai/
 authors: Fei-Fei Li
 date: 2024
 tags: #spatial-intelligence #world-models #embodied-ai #ai-capabilities
+tier: primary
+last_verified: 2026-05-09
+superseded_by:
 ---
 
 ## Summary
